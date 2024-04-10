@@ -1,4 +1,4 @@
-1-Define:
+### 1-Define:
 (a) Subgraph: Um subgrafo é uma parte de um outro grafo maior
 (b) Bipartite graph: Um Bigraph é um grafo dividido em dois conjuntos diferentes, onde as arestas ligam os vértices dos grupos distintos
 (c) Hamiltonian graph: É um grafo que tem um ciclo que visita cada vértice somente uma vez, menos o vértice inicial que também é o vértice final
