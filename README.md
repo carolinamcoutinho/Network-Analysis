@@ -1,2 +1,2 @@
 # Network-Analysis
-Projetos da matéria Análise de Redes - IMD1155
+Projetos e exercícios da matéria Análise de Redes - IMD1155 - 2024.1
