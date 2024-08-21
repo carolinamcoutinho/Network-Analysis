@@ -62,4 +62,4 @@ HtmlFile = open("aeroportos.html", 'r', encoding='utf-8')
 source_code = HtmlFile.read() 
 components.html(source_code, height=1000)
 
-#Para visualização rodar no terminal streamlit run airports_view.py
+#Para visualização rodar no terminal: streamlit run airports_view.py
